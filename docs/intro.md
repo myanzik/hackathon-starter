@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Hackathon Project Ideas Repository
+# Hackathon Project Ideas
 
 Welcome to the **Hackathon Project Ideas Repository**! This is a dedicated space to explore and share innovative project ideas for hackathons.
 
